@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkAa+rGSHU7Ylr+Pk8WuKcZ7YMuA7uI1PEVTPsoxCGQEaQlDv2ftxNwNufe3/a/DH7pm+G3dpAcm7JkxW77OZw==",
+  "dgSpecHash": "AYjx1C6BXbg/WxDrW6KAtynp9Gc02wt1iweICKLTHz0+SpGc/oFd6UexFppmyMPm0gAxIM23bjkb+MvsXLHpgw==",
   "success": true,
-  "projectFilePath": "F:\\sunwen\\test\\test.csproj",
+  "projectFilePath": "F:\\sunwen\\jenkinstast\\test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
